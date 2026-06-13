@@ -1,0 +1,9 @@
+class Demo
+{
+public static void main(String [])
+{
+int x = A;
+System.out.println(x);
+
+}
+}
